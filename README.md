@@ -1,2 +1,2 @@
 # Flight-Fare-prediction
-#Dataset coollected from kaggle
+#Dataset collected from kaggle
